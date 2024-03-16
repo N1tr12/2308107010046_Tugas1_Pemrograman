@@ -21,13 +21,13 @@ int main() {
             break;
         
         case 2:
-            printf("Masukkan bilangan biner: ");
+            printf("Masukkan bilangan Biner: ");
             scanf("%d", &bilangan);
             basis = 1;
             while (bilangan > 0) {
                 digit = bilangan % 10;
                 if (digit != 0 && digit != 1) {
-                    printf("Bilangan bukan biner.\n");
+                    printf("Bilangan bukan biner!\n");
                     return 1;
                 }
                 desimal += digit * basis;
