@@ -1,2 +1,2 @@
 # 2308107010046_Tugas1_Pemrograman
-Tugas 1 Pemrograman (Semester 2)
+Program Konversi Bilangan Desimal ke Biner, Bilangan Biner ke Desimal, Bilangan Desimal ke Oktal dan Bilangan Oktal ke Desimal
