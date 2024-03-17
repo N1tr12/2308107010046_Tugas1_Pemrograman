@@ -22,3 +22,19 @@ Penjelasan
     ./nama_file
     
     Contoh: ./2308107010046_1
+
+2.  File 2308107010046_2.c adalah kode dari program yang akan mengecek apakah tahun yang diinput oleh user adalah tahun kabisat atau tahun biasa
+
+
+    Anda perlu untuk mengcompile file tersebut terlebih dahulu jika ingin menjalankannya, dengan menggunakan syntax pada terminal:
+
+    gcc -o nama_file_output nama_file_source
+
+    Contoh: gcc -o 2308107010046_2 2308107010046_2.c
+
+
+    Seteleh proses compile berhasil dilakukan anda bisa menjalankannya, dengan menggunakan syntax pada terminal:
+
+    ./nama_file
+
+    Contoh: ./2308107010046_2
